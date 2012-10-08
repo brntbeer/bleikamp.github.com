@@ -5,13 +5,15 @@ title: Ben Bleikamp
 
 <img src="/images/ben.png" class="pull-right">
 
-I'm a designer in San Francisco, CA. I grew up in Ohio. I currently build things with the brilliant people of [GitHub](http://www.github.com).
+### The Present
 
-<h4>Professionally speaking</h4>
+I'm a designer based in San Francisco, CA working at [GitHub](http://www.github.com). I do not draw Octocats, but I sit next to people that do.
+
+### The Past
 
 I was a designer at [Bleacher Report](http://bleacherreport.com) and a Product Manager at [Yelp](http://yelp.com). I've done freelance work for LinkedIn, Mint, and SEOMoz. And I've helped [Ramit Sethi](http://iwillteachyoutoberich.com) and [Tim Ferriss](http://fourhourblog.com) launch their blogs and NYT best-selling books.
 
-<h3>Say Hello</h3>
+### Let's talk
 
 I am @bleikamp on [Twitter](http://twitter.com/bleikamp), [GitHub](http://github.com/bleikamp), and [Dribbble](http://dribbble.com/bleikamp).
 
