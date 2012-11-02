@@ -9,7 +9,7 @@ A lot of people are very excited that [Jonathan Ive](http://en.wikipedia.org/wik
   <img src="http://cl.ly/image/422O1H0H3m22/content">
 </figure>
 
-So, yeah, fuck skeuorphism. Flat design forever. I'm glad this conversation is over. Until we add a gradient to a button in a design. The gradient makes it feel like a button from the real world. Shit. Skeumorphism again.
+So, yeah, fuck skeumorphism. Flat design forever. I'm glad this conversation is over. Until we add a gradient to a button in a design. The gradient makes it feel like a button from the real world. Shit. Skeumorphism again.
 
 This is a good thing. I am not suggesting we stop using gradients.
 
