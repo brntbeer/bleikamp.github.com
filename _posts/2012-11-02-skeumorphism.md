@@ -23,7 +23,7 @@ So let's abandon the idea that someone is even a designer or not a designer. The
 
 Everyone I've ever met has a sense of design, everyone is able to tell me what looks good to them. That's taste. Some of my favorite designers are also really good developers. I think it's because the secret to being good at design is actually the same as development: a lot of practice and good taste.
 
-The problem with all bad design, skeumorphism included, is *taste*. It's fun to make fun of skeumorphism but when I glance at Dribbble I see a lot of it done tastefully. I also see a lot of beautiful flat design. It's because a particulary strategy or aesthetic isn't really the problem with bad design, it's a lack of taste.
+The problem with all bad design, skeumorphism included, is *taste*. It's fun to make fun of skeumorphism but when I glance at Dribbble I see a lot of it done tastefully. I also see a lot of beautiful flat design. It's because a particular strategy or aesthetic isn't really the problem with bad design, it's a lack of taste.
 
 Good taste is harder to learn, but it's what prevents things like iCal from happening. iCal's design isn't awful because it's skeumorphic, it's awful because it's skeumorphic in a tasteless way. A more subtle texture, a less harsh gradient, and more cues from other OSX apps could make iCal less of a laughingstock.
 
