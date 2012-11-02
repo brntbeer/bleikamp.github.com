@@ -25,5 +25,5 @@ Everyone I've ever met has a sense of design, everyone is able to tell me what l
 
 The problem with all bad design, skeumorphism included, is *taste*. It's fun to make fun of skeumorphism but when I glance at Dribbble I see a lot of it done tastefully. I also see a lot of beautiful flat design. It's because a particulary strategy or aesthetic isn't really the problem with bad design, it's a lack of taste.
 
-Good taste is harder to learn, but it's what prevents things like iCal from happening. iCal's design isn't awful because it's skeumorphic, it's awful because it's skeumorphic in a tasteless way. A more subtle texture, a less harsh gradient, and more cues from other OSX apps could make iCal less of a laughing stock.
+Good taste is harder to learn, but it's what prevents things like iCal from happening. iCal's design isn't awful because it's skeumorphic, it's awful because it's skeumorphic in a tasteless way. A more subtle texture, a less harsh gradient, and more cues from other OSX apps could make iCal less of a laughingstock.
 
