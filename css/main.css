@@ -257,6 +257,48 @@ iframe {
   clear: both;
 }
 
+/* Responsive Stuff
+*/
+
+@media all and (max-width: 640px) and (min-width: 320px) {
+  body {
+    margin: 0;
+  }
+
+  header h1 {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  nav { display: none; }
+
+  p, h3, dl, ul, ol, blockquote, blockquote p {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  img, iframe {
+    max-width: 100%;
+  }
+
+  .post {
+    padding: 0 5%;
+    margin: 48px 0 48px 0;
+    border-bottom: 1px solid #e8f7f2;
+  }
+
+  .post-meta {
+    border-top: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+}
+
 /* Pygments */
 /*------------------------------------------------------------------------------
   @group Default Pygments Styles
