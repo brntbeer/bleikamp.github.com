@@ -26,9 +26,9 @@ header h1 {
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
-  width: 214px;
-  height: 103px;
-  margin: 0 0 0 -32px;
+  width: 146px;
+  height: 53px;
+  margin: 19px 0 0 -32px;
   background: url("../images/logo.png");
 }
 
@@ -289,6 +289,7 @@ iframe {
 
 @media all and (max-width: 640px) and (min-width: 320px) {
   body {
+    font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2", Helvetica, Arial, sans-serif;
     margin: 0;
   }
 
@@ -304,6 +305,10 @@ iframe {
 
   nav { display: none; }
 
+  .single-post-container, .post, #footer {
+    padding: 0 5%;
+  }
+
   p, h3, dl, ul, ol, blockquote, blockquote p {
     margin-left: 0;
     margin-right: 0;
@@ -313,16 +318,29 @@ iframe {
     max-width: 100%;
   }
 
-  .post {
-    padding: 0 5%;
-    margin: 48px 0 48px 0;
-    border-bottom: 1px solid #e8f7f2;
+  .single-post-container h1 {
+    width: 100%;
+    font-size: 20px;
+    line-height: 1;
   }
+
+  .twitter { display: none; }
+
+  .single-post-container .post-meta:before { display: block; }
 
   .post-meta {
     border-top: none;
     padding-left: 0;
     margin-bottom: 0;
+  }
+}
+
+/* Retina logo */
+@media all and (-webkit-min-device-pixel-ratio: 2) {
+  header h1 {
+    background-image: url("/images/logo@2x.png");
+    width: 290px;
+    height: 107px;
   }
 }
 
