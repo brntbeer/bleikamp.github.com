@@ -258,6 +258,14 @@ img {
   line-height: 1;
 }
 
+ul, ol {
+  margin: 0 80px;
+}
+
+li {
+  list-style: square;
+}
+
 .pull-left {
   float: left;
   margin-left: -80px;
