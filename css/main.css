@@ -28,7 +28,7 @@ header h1 {
   overflow: hidden;
   width: 146px;
   height: 53px;
-  margin: 19px 0 0 -32px;
+  margin: 19px 0 0 0;
   background: url("../images/logo.png");
 }
 
@@ -41,6 +41,8 @@ header h1 a {
 nav {
   float: right;
 }
+
+nav ul { margin-right: 0; }
 
 nav li {
   display: inline-block;
