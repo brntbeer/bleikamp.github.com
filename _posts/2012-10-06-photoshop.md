@@ -1,6 +1,7 @@
 ---
 title: My Photoshop workflow for the web
 layout: post
+summary: A completely ridiculous way to use Photoshop to prototype things more quickly.
 ---
 
 At GitHub I use Photoshop every day to play with design ideas. It's the fastest way [for me] to move boxes around and lets me try a lot of ideas in a short period of time. It's also the worst way to replicate buttons, tables, or other repeating patterns that designers use *everywhere* on the web.

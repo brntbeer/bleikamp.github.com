@@ -5,15 +5,15 @@
 
 body {
   /*background: url("../images/grid.png") top center repeat-y;*/
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
-  font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2", Helvetica, Arial, sans-serif;
+  font-family: "freight-sans-pro-1","freight-sans-pro-2", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
 .container {
-  width: 620px;
-  margin: 24px auto;
+  width: 600px;
+  margin: 18px auto;
 }
 
 header {
@@ -71,7 +71,7 @@ nav a:hover {
 
 .post-meta {
   margin: 0;
-  padding: 11px 0 48px 80px;
+  padding: 11px 0 48px 0;
   border-top: 1px solid #f1f1f1;
 }
 
@@ -90,7 +90,7 @@ nav a:hover {
   margin: 0;
   padding: 0;
   color: #999;
-  font-family: "ff-meta-web-pro-1", "ff-meta-web-pro-2";
+  font-family: "freight-sans-pro-1","freight-sans-pro-2";
   font-size: 14px;
   letter-spacing: 0.2em;
   line-height: 1.714285714; /* 24/14 = 1.714285714 */
@@ -127,12 +127,13 @@ nav a:hover {
 #footer p { color: #999; }
 
 h1 {
-  margin: 0 0 24px 0;
+  margin: 96px 0 48px 0;
   font-family: "futura-pt-1", "futura-pt-2";
-  font-size: 40px;
+  font-size: 60px;
   font-weight: bold;
   letter-spacing: 0.05em;
-  line-height: 48px;
+  line-height: 60px;
+  text-align: center;
   text-transform: uppercase;
 }
 
@@ -167,7 +168,7 @@ h2 small {
 }
 
 h3 {
-  margin: 36px 0 12px 80px;
+  margin: 36px 0 12px 0;
   font-family: "futura-pt-1", "futura-pt-2";
   font-size: 16px;
   letter-spacing: 0.1em;
@@ -179,7 +180,7 @@ h3 a, h3 a:visited { color: #222; }
 h3 a:hover { color: #55d08f; }
 
 h4 {
-  margin: 12px 0 12px 80px;
+  margin: 12px 0 12px 0;
   color: #777;
   font-family: "futura-pt-1","futura-pt-2";
   font-weight: 700;
@@ -189,13 +190,31 @@ h4 {
 }
 
 p {
-  font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2";
+  font-family: "freight-sans-pro-1","freight-sans-pro-2";
   color: #333;
-  margin: 0 80px 24px 80px;
+  margin: 0 0 24px 0;
+}
+
+.intro {
+  margin: 0 0 96px 0;
+  font-style: italic;
+  text-align: center;
+  color: #999;
+}
+
+.intro:after {
+  position: relative;
+  bottom: -48px;
+  display: block;
+  content: '';
+  height: 2px;
+  width: 200px;
+  margin: 0 auto;
+  background: #ddd;
 }
 
 blockquote p {
-  margin: 0 0 24px 80px;
+  margin: 0 0 24px 0;
   padding: 0 0 0 24px;
   border-left: 1px solid #f1f1f1;
   font-family: "futura-pt-1","futura-pt-2";
@@ -206,7 +225,7 @@ blockquote p {
 }
 
 dl {
-  margin: 0 80px 24px 80px;
+  margin: 0 80px 24px 0;
   padding: 12px 20px;
   border: 1px solid #e4f3ed;
   background: #f7fbf9;
@@ -221,7 +240,7 @@ dt {
 }
 
 dt small {
-  font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2";
+  font-family: "freight-sans-pro-1","freight-sans-pro-2";
   color: #777;
   font-size: 14px;
   text-transform: none;
@@ -229,7 +248,7 @@ dt small {
 }
 
 dd {
-  margin: 0 0 0 20px;
+  margin: 0 0 0 0;
 }
 
 a {
@@ -247,7 +266,7 @@ a:hover {
 }
 
 pre {
-  margin: 0 0 24px 80px;
+  margin: 0 0 24px 0;
   padding: 11px;
   background: #fafafa;
   border: 1px solid #eaeaea;
@@ -261,7 +280,7 @@ img {
 }
 
 ul, ol {
-  margin: 0 80px;
+  margin: 0 0;
 }
 
 li {
@@ -270,7 +289,7 @@ li {
 
 .pull-left {
   float: left;
-  margin-left: -80px;
+  margin-left: -100px;
   margin-right: 20px;
 }
 
@@ -299,7 +318,7 @@ iframe {
 
 @media all and (max-width: 640px) and (min-width: 320px) {
   body {
-    font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2", Helvetica, Arial, sans-serif;
+    font-family: "freight-sans-pro-1","freight-sans-pro-2", Helvetica, Arial, sans-serif;
     margin: 0;
   }
 
